@@ -1,3 +1,3 @@
 # hello-world
- This is me learning how to use Git and GitHub
+ Hello there, I am Adeyinka. I am interested in solving problems related to ecommerce.
  
